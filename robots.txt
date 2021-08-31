@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /index.php
+Disallow: /wp-activate.php
+Disallow: /wp-blog-header.php
+Disallow: /wp-comments-postx.php
+Disallow: /wp-config-sample.php
+Disallow: /wp-config.php
+Disallow: /wp-cron.php
+Disallow: /wp-links-opml.php
+Disallow: /wp-load.php
+Disallow: /wp-login.php
+Disallow: /wp-mail.php
+Disallow: /wp-settings.php
+Disallow: /wp-signup.php
+Disallow: /wp-trackback.php
+Disallow: /readme.html
+Disallow: /favicon.ico
+Disallow: /license.txt
+
+Disallow : /wp-admin/
+Disallow : /wp-includes/
+Disallow : /wp-content/plugins/
+Disallow : /wp-content/themes/
